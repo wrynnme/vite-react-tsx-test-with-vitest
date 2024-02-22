@@ -1,4 +1,4 @@
-REF : [Youtube](https://www.youtube.com/watch?v=Aqz43LVbnTk&ab_channel=LearnfromScratch)
+REF : [Youtube:Learn from Scratch](https://www.youtube.com/watch?v=Aqz43LVbnTk&ab_channel=LearnfromScratch)
 
 # React + TypeScript + Vite
 
